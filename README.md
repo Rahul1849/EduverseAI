@@ -2,7 +2,7 @@
 
 An intelligent web application that transforms PDF textbooks into an interactive learning experience, combining the power of AI with educational content to help students revise effectively.
 
-## 🚀 Live Demo
+## 🚀 Live Demo: https://edu-revise-ai.vercel.app/
 
 The application is currently running at `http://localhost:3000` (when started locally).
 
@@ -261,34 +261,34 @@ edureviseAI/
 
 ### Core Functionality
 
-- [x] PDF upload and management system
-- [x] Interactive PDF viewer with controls
-- [x] AI-powered quiz generation (MCQ, SAQ, LAQ)
-- [x] ChatGPT-inspired chat interface
-- [x] Progress tracking and analytics
-- [x] Responsive mobile-friendly design
-- [x] Local storage for data persistence
-- [x] Sample NCERT Physics PDFs for testing
+-  PDF upload and management system
+-  Interactive PDF viewer with controls
+-  AI-powered quiz generation (MCQ, SAQ, LAQ)
+-  ChatGPT-inspired chat interface
+-  Progress tracking and analytics
+-  Responsive mobile-friendly design
+-  Local storage for data persistence
+-  Sample NCERT Physics PDFs for testing
 
 ### Technical Implementation
 
-- [x] Next.js 14 with App Router
-- [x] React 18 with hooks
-- [x] Tailwind CSS styling
-- [x] OpenAI API integration
-- [x] Error handling and loading states
-- [x] Toast notifications
-- [x] Component state management
-- [x] API route implementation
+-  Next.js 14 with App Router
+-  React 18 with hooks
+-  Tailwind CSS styling
+-  OpenAI API integration
+-  Error handling and loading states
+-  Toast notifications
+-  Component state management
+-  API route implementation
 
 ### User Experience
 
-- [x] Drag-and-drop PDF upload
-- [x] Page navigation and zoom controls
-- [x] Real-time quiz generation
-- [x] Interactive chat interface
-- [x] Progress visualization
-- [x] Mobile responsiveness
+-  Drag-and-drop PDF upload
+-  Page navigation and zoom controls
+-  Real-time quiz generation
+-  Interactive chat interface
+-  Progress visualization
+-  Mobile responsiveness
 
 ## ❌ What's Missing
 
@@ -384,4 +384,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-**Built with ❤️ for students who want to learn smarter, not harder.**
+
