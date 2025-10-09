@@ -167,7 +167,7 @@ export default function PDFUpload({
           Sample NCERT Physics PDFs
         </h3>
         <p className="text-gray-600 mb-4">
-          For testing purposes, you can use these sample NCERT Class XI Physics
+          You can use these sample NCERT Class XI Physics
           PDFs:
         </p>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
